@@ -1,5 +1,7 @@
-A�adir nuevo
+Añadir nuevo
 
 Cambio para el servidor github
 
 Cambio para git 2
+
+Cambo hecho por un compañero
