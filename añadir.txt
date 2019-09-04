@@ -1,3 +1,5 @@
 Añadir nuevo
 
 Cambio para el servidor github
+
+Cambio para git 2
